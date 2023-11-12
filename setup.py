@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='your_project_name',
+    name='math_quiz',
     version='1.0.0',
     packages=find_packages(),
     entry_points={
