@@ -4,10 +4,6 @@ setup(
     name='your_project_name',
     version='1.0.0',
     packages=find_packages(),
-    install_requires=[
-        'random',
-        'unittest'
-    ],
     entry_points={
         'console_scripts': [
             'your_script_name = your_package_name.your_module_name:main',
